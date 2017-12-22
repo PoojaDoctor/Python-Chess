@@ -1,6 +1,6 @@
 # Python-Chess
-# This was a group project for CS10. 
-# The game uses python3. 
+### This was a group project for CS10. 
+### The game uses python3. 
 
 The following 3 features are coded into the game: 
 
